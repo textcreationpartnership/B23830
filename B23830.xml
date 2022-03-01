@@ -1,0 +1,183 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Haines his appeal to the general assembly of Dependent Baptists convened in London, from most parts of the nation, the third day of Jnne [sic]; 1680.</title>
+            <author>Haines, Richard, 1633-1685.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B23830</idno>
+            <idno type="STC">Wing H199</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.22[102]</idno>
+            <idno type="STC">ESTC R222997</idno>
+            <idno type="EEBO-CITATION">99885406</idno>
+            <idno type="PROQUEST">ocm99885406</idno>
+            <idno type="VID">201266</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B23830)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 201266)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; B2:1[143-146])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Haines his appeal to the general assembly of Dependent Baptists convened in London, from most parts of the nation, the third day of Jnne [sic]; 1680.</title>
+                  <author>Haines, Richard, 1633-1685.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1680]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Caffyn, Matthew, 1628-1714 --  Early works to 1800.</term>
+               <term>Anabaptists --  England --  Early works to 1800.</term>
+               <term>Excommunication --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2014-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:201266:1" rendition="simple:additions"/>
+            <head>HAINES HIS APPEAL TO THE General Aſſembly OF Dependent Baptiſts Convened in <hi>LONDON,</hi> from moſt Parts of the <hi>Nation,</hi> the Third day of <hi>June;</hi> 1680.</head>
+            <p>WHereas I have made my Appeal to your Court, for Juſtice againſt <hi>Mat<g ref="char:EOLhyphen"/>thew Caffyn,</hi> who is one of your Members, immediately after the Fact I complain of, was committed, for theſe Reaſons following, <hi>viz.</hi>
+               <list>
+                  <item>1. I did ſo Appeal to you rather than to others, becauſe yours is the Higheſt Court, and from which there is no Appeal, as you ſuppoſe.</item>
+                  <item>2. Becauſe the Crime was of an High Nature, and doth not only call in queſtion, but ſtrikes at the Authority, Prerogative, and Laws of the King, <hi>&amp;c.</hi>
+                  </item>
+                  <item>3. Becauſe it was a Leading Caſe never practiſed by any Church in the World, and in it ſelf more cruel and unjuſt than what is approved of by the Church of <hi>Rome;</hi> where<g ref="char:EOLhyphen"/>fore I expected Juſtice ſpeedily to be obtained, and alſo you had Power ſo to do.</item>
+               </list>
+            </p>
+            <list>
+               <item>
+                  <hi>Firſt,</hi> I expected Juſtice, becauſe I was informed by divers Members of your Court, that you had Power to redreſs Grievances, reverſe unjuſt Judgments, and correct Of<g ref="char:EOLhyphen"/>fenders, <hi>&amp;c.</hi>
+               </item>
+               <item>2. By reaſon I had Liberty given me by the mouth of <hi>Caffyn</hi>'s Court, and that too without ſhew of diſlike of any Member, to make my Appeal to whom I would.</item>
+               <item>3. By reaſon I gave your unjuſt Judge and his Fellow-Criminals timely notice, that I would make my Appeal to this High Court.</item>
+               <item>4. Becauſe the Fact was notoriouſly ſcandalous to the Diſhonour of the Profeſſion, and thoſe that are honeſt Profeſſors; and therefore deſerved ſpeedy Correction.</item>
+            </list>
+            <p>Thus I came to your Court, to let you know, that my Witneſſes were preſent to prove the Premiſſes; but I ſoon perceived ſeveral of the Apoſtles hereafter mentioned, to look aſquint when I preſs'd for Juſtice, and that inſtead of accepting of my Appeal, they cunningly would, if poſſible, have perſwaded me, both then, and every Court ſince, to refer it, notwithſtanding you well knew, I came not to refer, but to make my Appeal for Juſtice.</p>
+            <p>Wherefore, when I reſolutely avoided that Bait, you then told me, that according to the Laws or Canons of your Court, I muſt firſt make my Appeal to a Quarterly Meeting in the ſame Country where the Fact was committed. To which I anſwered, That by conſent of each Party you had power to accept of an Appeal, as well as a Reference; I alſo pleaded, that it was unreaſonable for you to compel me to make my Appeal to ſuch a Court as had given their Conſent to the Criminals Proceedings before they were acted, they being inferiour Perſons, and over whom the ſaid Criminal him<g ref="char:EOLhyphen"/>ſelf was Supreme Biſhop and Univerſal Apoſtle.</p>
+            <p>Howbeit, forc'd I was to this unjuſt and crooked Method; but the more willing I was to ſubmit, becauſe you promiſed me, that if Juſtice were not done in the Coun<g ref="char:EOLhyphen"/>trey, then you would accept of my Appeal and do me Juſtice; but alas! That Deſign of the Confederates I perceive, was to wear out Time, corrupt Witneſſes, tire me out
+<pb n="2" facs="tcp:201266:2"/>with expenſive Attendance, to wreſt Juſtice, juſtifie the Villain, and ſcandalize the Oppreſſed, as plainly thus appears, <hi>viz.</hi> For that when I had followed your own Me<g ref="char:EOLhyphen"/>thod, as aforeſaid, and nothing being done in the Country to determine the matter accor<g ref="char:EOLhyphen"/>ding to Juſtice, I then did again appeal to your Court with hopes to obtain Juſtice: but contrarywiſe, I found a great part of your Apoſtles to be traitors to Juſtice, and damnable Enemies to my Appeal, which they oppoſed with Might and Main, notwithſtanding their Promiſe to accept thereof; howbeit to the Vote it was put, and the honeſt Par<g ref="char:EOLhyphen"/>ty out-voted the — Oppoſers, and much againſt their Stomachs, to a Hearing it came; but then to prevent Juſtice, a Plot muſt be laid againſt my Witneſſes, and tho' their Reputation be unſpotted; yet they muſt be cenſured, and look'd upon as per<g ref="char:EOLhyphen"/>jur'd Perſons, or ſuch Rogues and Villains as would falſly accuſe the Innocent; and under that pretence were not then ſuffered to make uſe of their Papers, in which, for their Memory, they had written the Truth of what they heard, to prevent miſtakes; but they muſt ſpeak what they knew, and as they could remember without them tho' ſeveral years had paſt between; and when they had ſpoken, it was not to be regarded; but one of <hi>Caffyn</hi>'s Faction being Chair-man, the Court was diſſolved in Confuſion, and then ſaid, <hi>That God had withdrawn himſelf from them:</hi> So that I well perceive its in vain to attend this Court with my Witneſſes any longer, until it purge it ſelf of its cor<g ref="char:EOLhyphen"/>rupt, partial and unjuſt Members.</p>
+            <p>Howbeit, about a year or two before this laſt Court, the matter in Controverſie was debated by the conſent of the major part of your Court, and by ſuch the major part of your Court, <hi>That very thing with all its Circumſtances for which I was condemned, was judged and declared to be both lawful, juſt and honeſt,</hi> notwithſtanding my Witneſſes were not heard, but only as they took it from the Criminals own Mouth: Moreover you know, that ſeveral Perſons, Members of your Court, have expreſly, (either honeſtly or deceitfully) <hi>Admoniſh'd the ſaid unjuſt judge,</hi> &amp;c. <hi>to put away the Evil of his Doings by Repentance,</hi> &amp;c. as a Copy thereof ſubſcribed will demonſtrate; notwithſtanding all which you alſo know, <hi>That he as an Heretick, remains obſtinate, perſevering in his Acts of Wickedneſs, and repenteth not.</hi> Wherefore know ye, That by theſe preſents, and in the name of him, and for the honour of the Goſpel, under whom, and for which you pretend to hold this Court, <hi>I do now demand Judgment againſt the ſaid</hi> Matthew Caffyn, <hi>and alſo that you forthwith reverſe his unrighteous Judgment, as being ſinful, papiſtical, cruel and unjuſt, and that you admoniſh his Congregation, who through Flattery, Threats, or any other way were deluded to joyn with him in his ſinful Practice, to put away the Evil of their Doings by Repentance, and giving Satisfaction anſwerable to the Injuries, which by means thereof have been occaſioned:</hi> For it may be judged, that they, to wit, his ſimple Con<g ref="char:EOLhyphen"/>gregation, are ignorant of the ſence of your Court, and of the Admonitions you ſent them.</p>
+            <p>But if now at laſt, after all your Pretence<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and Promiſes that Juſtice ſhould be done; your Declarations, That that very thing with all its Circumſtances for which I was condemned, is juſt, honeſt and lawful, your admoniſhing him to put away the Evil of his Doings by Repentance, <hi>&amp;c.</hi> I ſay, if after this long waiting, all this be but Seven years Hypocriſie and Deceit, and that you at this time alſo refuſe to give Judgment againſt the ſaid unjuſt and papiſtical Apoſtle, Then know ye by theſe preſents, that I demand ſatisfaction of this Court; and as it is my Duty, ſo I will according to the Ad<g ref="char:EOLhyphen"/>vice of the true Apoſtle of Chriſt, ſubmit my ſelf to every Ordinance of Man for the Lords ſake, whether it be to the King as Supreme, or unto Governours, as unto them that are ſent by him for the puniſhment of Evil Doers, and for the praiſe of them that do well; wherefore this being the Will of God, that by well doing I may put to ſilence the Ignorance and Villany of fooliſh and diſhoneſt men; therefore to that end I do re<g ref="char:EOLhyphen"/>ſolve to Indict your Apoſtle, and all the Members of this Court (that do not en<g ref="char:EOLhyphen"/>ter their Proteſtations againſt him and his Defenders, <hi>&amp;c.</hi>) in the <hi>Crown Office</hi> (if His Majeſties Miniſters think themſelves concern'd to take Cognizance thereof) of and up<g ref="char:EOLhyphen"/>on the enſuing Articles (which in matter of Fact you know, is no more than what I have charged, and ſeveral times offer'd to prove againſt him in your Court, as my Printed Paper to you preſented will demonſtrate) as follows.
+<list>
+                  <pb n="3" facs="tcp:201266:3"/>
+                  <item>
+                     <hi>Firſt,</hi> That the ſaid <hi>Matthew Caffyn</hi> of <hi>Broadbridge</hi> near <hi>Horſman</hi> in <hi>Suſſex,</hi> hath in a Papiſtical manner contemned the Laws, and Royal Prerogative of the Supreme Ma<g ref="char:EOLhyphen"/>giſtrate of this Realm, and threatens to excommunicate ſuch as ſhall ſtand to plead for, and maintain the ſaid Laws and Royal Prerogative, after, or at the ſame time, that he himſelf doth declare the ſaid Laws, <hi>&amp;c.</hi> to be unjuſt and odious.</item>
+                  <item>2. That the ſaid <hi>Caffyn</hi> by Popiſh uſurpt Authority, hath paſſed Sentence of Excom<g ref="char:EOLhyphen"/>munication againſt a Proteſtant and Liege Subject of this Realm, before it was pro<g ref="char:EOLhyphen"/>ved that any known Law was tranſgreſſed; and becauſe he endeavoured to juſtifie the Laws and Prerogative of the King, and Privilege of his Liege Subjects, againſt the Authority of this little Pope.</item>
+                  <item>3. That the Principles, Tenets, and Government of this little Pope, are as dange<g ref="char:EOLhyphen"/>rous as the Principles and Tenets of thoſe who are now in <hi>Newgate,</hi> or of late have been hang'd at <hi>Tyburn,</hi> for Conſpiring the Death of the King, and Subverting the Go<g ref="char:EOLhyphen"/>vernment of the Realm.</item>
+                  <item>4. That the Government of this <hi>Engliſh</hi> Pope is more Hypocritical and unjuſt in its Cruelties, than the Butcheries which are approved of by the Pope and Church of <hi>Rome.</hi>
+                  </item>
+                  <item>5. That his little Holineſs hath debauch'd a good Conſcience, if ever he had any, and hath gone a whoring theſe ſeven years, notwithſtanding he hath been ſeveral times admoniſhed to put away the Evil of his Doings by Repentance, <hi>&amp;c.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>Furthermore, by theſe preſents, I do impeach and accuſe ſeveral Apoſtles, formerly Members of this High Court, <hi>viz. George Hammon,</hi> Captain <hi>Morcock,</hi> and <hi>
+                  <g ref="char:V">Ʋ</g>ridge</hi> of <hi>Kent,</hi> the Apoſtle <hi>Marner</hi> of St. <hi>Martins Le grand;</hi> as alſo <hi>Tho. Croucher, Miller, Francis Stanley, Amory,</hi> and others, as being Enemies to Juſtice, and Comforters, Sup<g ref="char:EOLhyphen"/>porters and Defenders of the ſaid <hi>Matthew Caffyn;</hi> and therefore I do deſire this Court, that they may be removed from being concerned as Judges therein, until they be brought to Tryal, they being the Perſons by whom the Peace of your Government was deſtroyed to that Degree, that it was declared and agreed, <hi>That God hath withdrawn himſelf from your Aſſembly.</hi>
+            </p>
+            <p>I need not tell you that it's pleaded by divers Members of your Court, that your Court hath not Power to redreſs Grievances, reverſe unjuſt Judgments, or do Juſtice; which if true, who ſhall believe you the Members of this Court any more? For have you not pretended to ſuch Power, and wheadled me with fair Promiſes to attend you with my Witneſſes, to my great Charge, and now indeed have you no Power? Why did you mock God and me, and all the Baptiſt-Congregation almoſt throughout <hi>England?</hi> But in Truth, I perceive this is only your laſt Shift: Fain you would defend your <hi>DARLING</hi> from the <hi>ROD</hi> of <hi>J<g ref="char:V">Ʋ</g>STICE;</hi> and therefore out of pure Pity to him, you are content, for the preſent, to deny that Power you have always heretofore pretended to; and now poſſibly with a pitiful Jugling Hypocriſie, you may exclaim againſt the thing, <hi>viz. Superintendency</hi> and <hi>Dependency,</hi> which you owned when I entred my Ap<g ref="char:EOLhyphen"/>peal; but now you really pretend the Churches of God are <hi>Independent:</hi> Well then, what are you a General Aſſembly for? Are you nothing but Ropes of Sand? And are you not groſs Hypocrites and Juglers not to tell me ſo before? But to take you now at your words, the Deſign of your General Aſſembly it ſeems, is not to do Juſtice, and you have no Power (I am pretty well aſſured you want the Will) to correct; and hence it will follow, that though you well know <hi>Caffyns</hi> Principles to be moſt Diabolical and dangerous to Church and State; yet you will, and muſt ſtill own and communicate with him, as your dearly beloved Brother in the Lord Jeſus.</p>
+            <p>
+               <hi>Sirs,</hi>
+               <lb/> I love the word Reformation well, but the thing better, and ſhould be glad to ſee a Reformation: But tell me I pray, muſt the Excluſion of Juſtice and Honeſty be the firſt ſtep to your <hi>Independent Reformation?</hi> If you will be Independent, and yet will allow the Apoſtles to be Judges of Secular Juriſdictions, you then do but diſſolve your General Council, to ſet us up, as it were, a King-Pope in every Pariſh; but if you now pretend you will have nothing to do as Judges in Secular Cauſes, becauſe you are commanded to ſubmit to every Ordinance of the Supreme Magiſtrate, <hi>&amp;c.</hi> and are really ſo honeſt as to mean what you ſay: Then pray Sirs, give the World a Demon<g ref="char:EOLhyphen"/>ſtration
+<pb n="4" facs="tcp:201266:4"/>of it, you having opportunity enough ſo to do. The Villain, your Brother, now ſtands before you, who hath uſurp'd ſuch Authority, as to judge of Law and Royal Prerogative, as I have ſaid before; either make him an Example, or at leaſt, ſince you promiſed to do Juſtice, provided I would ſue for it according to your own Methods, to which I have ſubmitted; yet Juſtice cannot be obtained, tho' ſo promiſed. Now pray Sirs, will you be reformed, and not be honeſt? If you promiſed to my prejudice that which you cannot perform, I demand Satisfaction for all that Charge, <hi>&amp;c.</hi> which I have ſuſtained, in hopes to obtain the thing you promiſed; or otherwiſe, you muſt confeſs that your pretence of Reformation is grounded upon a diſhoneſt Bottom, and hath no better reſemblance than to be ſuch.</p>
+            <p>I would not be miſ-underſtood; it's poſſible the Reader may conclude from what hath been ſaid, that all the <hi>Anabaptiſts</hi> in <hi>England</hi> are alike. To this I only ſay, that moſt of the <hi>Anabaptiſts</hi> in <hi>England</hi> are <hi>Independent,</hi> they meddle not with State Affairs, they aſſume not to excommunicate Perſons, but upon the ſame terms as they baptize them, <hi>viz.</hi> plain Text of Scripture for their warrant therein; and therefore this High Court, eſpecially <hi>Caffyn</hi> and his Abettors, would not permit of them into their Aſſembly; wherefore ſuch as Mr. <hi>Plant,</hi> Mr. <hi>Hicks,</hi> Mr. <hi>Kiffyn,</hi> and many more in City and Coun<g ref="char:EOLhyphen"/>trey, are wholly innocent in this matter.</p>
+         </div>
+         <div type="postscript">
+            <head>POSTSCRIPT.</head>
+            <opener>
+               <dateline>
+                  <date>
+                     <hi>June</hi> the 7th. 1680.</date>
+               </dateline>
+            </opener>
+            <p>
+               <hi>I</hi> Having preſented the foregoing Diſcourſe to the Aſſembly, before whom it was read, they blamed me only for making uſe of hard words, <hi>viz.</hi> Criminal, Villain, Pope, <hi>&amp;c.</hi> but as to matter of Fact, which proves him and others to be as I have ſhewed, I was not at all blamed. But if behind my Back any ſhould, then know that I am ready to prove every particular I have charged.</p>
+            <p>The Aſſembly hath now declared the Excommunication with all its Circumſtances, to be un<g ref="char:EOLhyphen"/>juſt and void, and hath alſo required <hi>Caffyn</hi> and his Church to reverſe it: Alſo <hi>Caffyn</hi> hath promiſed to ſubmit thereunto; and now I alſo do declare, I am ready to be reconciled to <hi>Caffyn</hi> and his Church, upon condition they be juſt and honeſt. Liberty and Property are things pleaded for by <hi>Caffyn,</hi> &amp;c. and doubtleſs if he will plead thoſe very Laws are unjuſt that are made to preſerve Liberty, he will not ſtick to ſay, all other Laws are unjuſt alſo. Now the great Wiſdom of this Nation to ſecure this excellent thing Liberty,<hi>&amp;c.</hi> doth judge and agree, That he, or they that ſhall Impriſon any Perſon unjuſtly, ſhall pay <hi>5 l. per</hi> hour, during ſuch Im<g ref="char:EOLhyphen"/>priſonment. And it is judged and declared by Perſons of known Integrity, that are <hi>Baptiſts,</hi> and others, That Excommunication is ten times a greater Crime in thoſe that ſhall do all that lies in their power, to commit perſons to the Eternal Flames of Hell, for doing that which is no Tranſgreſſion of any known Law of God, the King or the Church.</p>
+            <p>Now <hi>Reader,</hi> if you yet do queſtion whether <hi>M. C.</hi> &amp;c. have and do contemn ſuch the good Laws and Au<g ref="char:EOLhyphen"/>thority of the King, pray then, ask him, or them, whether they do not judge this Law made for the Preſervation of Liberty to be unjuſt? If they ſay it is, why ſhould you imagine he, <hi>&amp;c.</hi> ſhould not contemn all other Laws of the King alſo, when they think 'tis for their own Ends ſo to do? But if they ſay, the Law aforeſaid be juſt, then judge you, whether it be not juſt, that they ſhould pay accordingly for this their Crime, which is judged ten times worſe than Corporal Impriſonment, and tends to the Deſtruction of all good Government now eſta<g ref="char:EOLhyphen"/>bliſh'd. 'Tis poſſible <hi>Caffyn</hi> and his Faction will merrily laugh, and ſay, We are well enough yet: For if the Law for Preſervation of Liberty were <hi>50 l. per</hi> Hour, yet there's no Law to compell us to pay him <hi>12 d.</hi> an Hour for doing what he could to lay him in Hell.—'Tis true, the Devil ſaid, <hi>Skin for Skin, and all that a Man hath will he give for his Life.</hi> And for ought I know, <hi>Caffyn</hi> and his Faction may now be of this opinion, <hi>viz.</hi> to part with, and give away Conſcience, Honeſty, and conſequently Heaven too, rather than to part with his Money. But 'tis poſſible, though there be no Law to compell him to give Satisfaction, yet he may be honeſt, and do it willingly for ought you know; It is but for Seven years, Sirs, that I make demand, and although he hath been moſt unmerciful, yet rather than to caſt him, <hi>&amp;c.</hi> into an ordinary Priſon, I will ſhew Mercy, and accept of <hi>12 d.</hi> in the Pound, yea, <hi>6 d.</hi> in the Pound rather than be contentious.</p>
+            <p>But if he ſhall ſtill refuſe, I then humbly offer to Appeal to the King and Council, to judge and determine the matter as they think fit, if the King and Honourable Board be graciouſly pleaſed to permit thereof. Therefore, pray <hi>Reader,</hi> perſwade <hi>Caffyn,</hi> &amp;c. to accept of this Expedient, and you ſhall find I will uſe my utmoſt Endeavours to obtain this thing ſo determined, and humbly ſubmit thereunto.</p>
+            <p>
+               <hi>Thus much I novv Propoſe as an Endeavovr for Reconciliation, and leave the ſame to the Conſideration of all concerned therein.</hi>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
